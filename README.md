@@ -1,4 +1,4 @@
-# Stats for Neuroscientists
+# Public Journal Club
 
 Course website for NEUS 643 - Stats for Neuroscientists: https://stats4neuro.netlify.app
 
